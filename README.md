@@ -12,3 +12,6 @@ Furthermore, I have done many things in my life, but the most significant decisi
 Some of my achievements include being awarded an Explorer Award and Discovery Award by the John Muir Trust, in recognition of awareness and responsibility for wild places. I have been awarded the UK Bebras Challenge award from Hertford College, University of Oxford.
 
 To enrich my IT and Computing studies I have studied many online courses such as an introduction to computers and computer systems, an introduction to cyber security, and a responsive web design course.
+
+<img src="https://github-readme-stats.vercel.app/api?username=tylermwise&show_icons=true&theme=dark&hide_rank=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylermwise&layout=compact&theme=dark">
