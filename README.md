@@ -13,6 +13,5 @@ Some of my achievements include being awarded an Explorer Award and Discovery Aw
 
 To enrich my IT and Computing studies I have studied many online courses such as an introduction to computers and computer systems, an introduction to cyber security, and a responsive web design course.
 
-
 <img src="https://github-readme-stats.vercel.app/api?username=tylermwise&show_icons=true&theme=dark&hide_rank=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylermwise&layout=compact&theme=dark">
