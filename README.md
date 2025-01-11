@@ -1,5 +1,5 @@
 # 👋 Hey There! I'm Tyler M-Wise,
-I'm a coder who develops games using various programming languages, including Luau, Java, HTML, C# and JavaScript. I work on these with a friend, and we run a company called [TeamTBM](https://teamtbm.org?utm_source=tylermwise.uk), which we founded to help others with programming and game development. As I code, I love listening to music – I was just listening to 'HOT TO GO!' by Chappell Roan!  
+I'm a coder who develops games using various programming languages, including Luau, Java, HTML, C# and JavaScript. I work on these with a friend, and we run a company called [TeamTBM](https://teamtbm.org?utm_source=tylermwise.uk), which we founded to help others with programming and game development.
   
 My programming journey began when I was ten, learning HTML. Since then, I’ve picked up many other languages, with Luau, HTML and C# being among my favourites.  
   
@@ -12,6 +12,7 @@ Having completed my ICT Extended Diploma, I now work as a marketing and events a
 Outside of all this, I work freelance as a [photographer](https://tylermwise.uk/photography-projects/) and [web designer](https://tylermwise.uk/web-design/), and continue to develop video games on Roblox, with my current project being the [TBM Universe](https://teamtbm.org/universe?utm_source=tylermwise.uk).  
   
 Beyond my other work, I enjoyed a summer at [West End House Camp](https://westendhousecamp.org?utm_source=tylermwise.uk) in 2024 as a Senior Camp Counsellor, taking on the additional roles of photography and videography to document the camp experience.
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=tylermwise&show_icons=true&theme=dark">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylermwise&theme=dark">
