@@ -13,7 +13,5 @@ Outside of all this, I work freelance as a [photographer](https://tylermwise.uk/
   
 Beyond my other work, I enjoyed a summer at [West End House Camp](https://westendhousecamp.org?utm_source=tylermwise.uk) in 2024 as a Senior Camp Counsellor, taking on the additional roles of photography and videography to document the camp experience.
 
-<div style="text-align: center; gap: 4px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=tylermwise&show_icons=true&theme=dark">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylermwise&layout=donut&theme=dark">
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=tylermwise&show_icons=true&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylermwise&layout=donut&theme=dark">
