@@ -15,5 +15,5 @@ Beyond my other work, I enjoyed a summer at [West End House Camp](https://westen
 
 <div style="text-align: center; gap: 4px;">
   <img src="https://github-readme-stats.vercel.app/api?username=tylermwise&show_icons=true&theme=dark">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylermwise&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylermwise&layout=donut&theme=dark">
 </div>
